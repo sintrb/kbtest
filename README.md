@@ -1,6 +1,6 @@
 # kbtest
 
-> Keyboard Test
+> A Simple Keyboard Exercise/Test Tool. [Online Demo](https://sintrb.github.io/kbtest/)
 
 ## Build Setup
 
